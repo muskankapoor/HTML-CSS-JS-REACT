@@ -1,0 +1,23 @@
+.header{
+    background-color:red;
+    height: 50px;
+    width:  600px;
+    
+			 
+}
+
+.nav{
+    background-color:blue;
+    height: 500px;
+    width:  200px;
+    float:left;
+			 
+}
+xs
+.main{
+    background-color:red;
+    height: 500px;
+    width:  400px;
+    float:left;
+			 
+}
